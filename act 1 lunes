@@ -1,0 +1,6 @@
+nombre = input("Nombre: ")
+apellidos = input("Apellidos: ")
+num_tel = input("Numero de Telefono: ")
+email = input("Correo Electronico: ")
+
+print ("Hola" + " " + nombre + " " +  apellidos + " " + "En breve recibiras un correo a" + " " + email)
